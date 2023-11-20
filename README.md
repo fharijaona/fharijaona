@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fabien Harijaona <br/><a href="https://github.com/fharijaona">Developer Full-stack</a>, <a href="https://www.linkedin.com/in/fabien-mamy-harijaona-b1069129b/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Fabien Harijaona <br/><a href="https://github.com/fharijaona">Developer Full-stack</a>, <a href="https://www.linkedin.com/in/fabien-mamy-harijaona-b1069129b/"></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
