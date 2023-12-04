@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Angular</b>
+
 - <b>Angular</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
